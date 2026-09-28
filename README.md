@@ -9,7 +9,7 @@ TheCatAPI & Dog CEO ile 150+ kedi ve köpek ırkı, mizaç analizi, yaşam süre
 
 ## 🚀 Hızlı Başlangıç
 1. Bu repoyu klonlayın.
-2.  dosyasını tarayıcıda açın.
+2. `index.html` dosyasını tarayıcıda açın.
 
 
 
